@@ -47,11 +47,8 @@ I'm a passionate software engineer with over 6 years of experience in crafting c
 
 ## 🌐 Contact
 
-- **LinkedIn**: [Mayank Kumar's LinkedIn](https://www.linkedin.com/in/mayank-kumar)
-- **GitHub**: [Mayank Kumar's GitHub](https://github.com/mayank3115)
-- **Phone**: (709) 341 - 7591
+- **LinkedIn**: [https://www.linkedin.com/in/mayank](https://www.linkedin.com/in/mayank-kumar-74a79061/)
 - **Email**: mayank3115@gmail.com
-- **Address**: Allandale Rd, St. John’s, NL
 
 ## 📚 Education
 
